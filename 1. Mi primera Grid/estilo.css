@@ -1,0 +1,19 @@
+.col-1, .col-10{
+    background:#74f34d;
+    border: 1px solid #f7570d
+}
+
+div.container-fluid .col-1, div.container-fluid .col-10{
+    background:#29d2f0;
+    border: 1px solid #571ef1
+}
+
+.col {
+    background: #0591aa;
+    border: 1px solid black;
+}
+
+.padre{
+    background: pink;
+    border: 1px solid black;
+}
